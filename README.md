@@ -1,26 +1,56 @@
-![Gift](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamh4dzhwM2l3ZDQzOGl1NWtxNWhoZm93MGlvaGJ3azYxcWcwb3gxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/arxiLc5EiFhja/giphy.gif)
+<!-- Profil Header -->
+<div align="center">
+  <img src="https://media0.giphy.com/media/arxiLc5EiFhja/giphy.gif" width="200"/>
+  <h1>Hi Coders 👋, I'm Zayan</h1>
+  <h3>💻 18 y/o Developer from Indonesia</h3>
+</div>
 
+---
 
+### 💬 About Me
+- 💡 Ask me about **PHP, JavaScript, SHA256**
+- 📫 Reach me at **zayanrizki14@gmail.com**
+- ⚡ Fun fact: I'm interested in **Cyber Security** & **Cryptocurrency**
 
-<h1 align="center">Hi Coders👋, introduce my self my name Zayan</h1>
-<h3 align="center">im 18 years old from Indonesia</h3>
+---
 
-- 💬 Ask me about **php javascript SHA256**
-
-- 📫 How to reach me **zayanrizki14@gmail.com**
-
-- ⚡ Fun fact **Actually, I'm intrested in the world of cyber security and Cryptocurrency**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/jey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jey" height="30" width="40" /></a>
-<a href="https://www.instagram.com/szupergrcia?igsh=ZjhkNmQ2emFzMHlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="szupergracia" height="30" width="40" /></a>
-<a href="https://discord.gg/jey24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jey24" height="30" width="40" /></a>
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://dev.to/jey" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" height="40" />
+  </a>
+  <a href="https://www.instagram.com/szupergrcia?igsh=ZjhkNmQ2emFzMHlo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://discord.gg/jey24" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+### 🛠 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,bash,chartjs,css,dart,dotnet,flutter,gcp,git,go,html,js,linux,mysql,nodejs,php,postgres,postman,python,react,reactnative,tailwind,ts&perline=8" />
+</p>
 
-##### My Github Stats
-![zayanWH's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayanWH&show_icons=true&theme=midnight-purple)
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zayanWH&show_icons=true&theme=midnight-purple" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zayanWH&theme=midnight-purple" height="160" />
+</p>
+
+---
+
+### 🚀 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zayanWH&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Don't+forget+to+follow+me+🚀;Happy+Coding+💻" />
+</div>
