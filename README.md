@@ -23,4 +23,4 @@
 
 
 ##### My Github Stats
-![zayanWH's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayanWH)
+![zayanWH's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayanWH&show_icons=true&theme=radical)
