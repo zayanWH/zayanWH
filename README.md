@@ -1,6 +1,12 @@
+  ![zayan](img/github-header-banner.png)
+
 <!-- Profil Header -->
 <div align="center">
-  <h1>Hi Coders 👋, I'm Zayan</h1>
+    <h1 align="center">
+  Hi Coders 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  , I'm Zayan
+</h1>
   <h3>💻 18 y/o Developer from Indonesia</h3>
 </div>
 
