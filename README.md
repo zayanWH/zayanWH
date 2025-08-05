@@ -1,6 +1,6 @@
 <!-- Profil Header -->
 <div align="center">
-  <img src="https://media0.giphy.com/media/arxiLc5EiFhja/giphy.gif" width="200"/>
+  <![Header](./your-header-image-name.png) width="200"/>
   <h1>Hi Coders 👋, I'm Zayan</h1>
   <h3>💻 18 y/o Developer from Indonesia</h3>
 </div>
