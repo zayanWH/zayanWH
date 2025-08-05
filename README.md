@@ -1,6 +1,5 @@
 <!-- Profil Header -->
 <div align="center">
-  <img src="https://media0.giphy.com/media/arxiLc5EiFhja/giphy.gif" width="200"/>
   <h1>Hi Coders 👋, I'm Zayan</h1>
   <h3>💻 18 y/o Developer from Indonesia</h3>
 </div>
@@ -55,4 +54,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Don't+forget+to+follow+me+🚀;Happy+Coding+💻" />
 </div>
 
-<img src="https://media0.giphy.com/media/arxiLc5EiFhja/giphy.gif" width="200"/>
+<div align="center">
+  <img src="https://media0.giphy.com/media/arxiLc5EiFhja/giphy.gif" width="200"/>
+</div>
+
