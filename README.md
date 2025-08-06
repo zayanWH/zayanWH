@@ -12,8 +12,6 @@
     </h1>
     <h3>💻 18 y/o Developer from 🇮🇩 <b>Indonesia</b> - Mengukir Kode dengan Keindahan Batik</h3>
     
-    <!-- Animated Indonesian Flag -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=450&lines=🇮🇩+MERAH+PUTIH+🇮🇩;⚡+GARUDA+PANCASILA+⚡;🌴+NUSANTARA+CODE+🌴;🔥+INDONESIA+DIGITAL+🔥" />
 </div>
 
 ---
