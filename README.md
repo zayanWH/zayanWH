@@ -21,46 +21,7 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-### 🎨 Filosofi Batik dalam Programming
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&width=600&lines=Setiap+Kode+Punya+Cerita+🎨;Every+Code+Has+a+Story+✨;Batik+Pattern+in+Programming+🌟" />
-</div>
-
-<table>
-<tr>
-<td width="33%">
-<div align="center">
-
-**🌸 Batik Kawung**  
-*Modular Architecture*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=8B4513&center=true&vCenter=true&width=300&lines=balance:+true;modular:+true;beautiful:+true" />
-
-</div>
-</td>
-<td width="33%">
-<div align="center">
-
-**⚡ Batik Parang**  
-*Continuous Integration*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=D2691E&center=true&vCenter=true&width=300&lines=learn();improve();repeat();" />
-
-</div>
-</td>
-<td width="33%">
-<div align="center">
-
-**🦋 Batik Kupu**  
-*Transformative Code*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=CD853F&center=true&vCenter=true&width=300&lines=idea→develop→deploy" />
-
-</div>
-</td>
-</tr>
-</table>
 
 ---
 
