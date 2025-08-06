@@ -6,11 +6,10 @@
 <!-- Profil Header dengan Animasi Batik -->
 <div align="center">
     <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&width=600&lines=Hi+Coders+%F0%9F%91%8B;Halo+Programmer+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Welcome+to+Batik+Code!+%E2%9C%A8" />
-    </h1>
-    <h2>I'm <span style="color: #D2691E;">Zayan</span> 
+        Hi Coders 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-    </h2>
+        , I'm Zayan
+    </h1>
     <h3>💻 18 y/o Developer from 🇮🇩 <b>Indonesia</b> - Mengukir Kode dengan Keindahan Batik</h3>
     
     <!-- Animated Indonesian Flag -->
@@ -26,6 +25,10 @@
 
 ### 🎨 Filosofi Batik dalam Programming
 
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&width=600&lines=Setiap+Kode+Punya+Cerita+🎨;Every+Code+Has+a+Story+✨;Batik+Pattern+in+Programming+🌟" />
+</div>
+
 <table>
 <tr>
 <td width="33%">
@@ -33,14 +36,8 @@
 
 **🌸 Batik Kawung**  
 *Modular Architecture*
-```javascript
-// Seperti pola kawung yang simetris
-const harmoniousCode = {
-    balance: true,
-    modular: true,
-    beautiful: true
-};
-```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=8B4513&center=true&vCenter=true&width=300&lines=balance:+true;modular:+true;beautiful:+true" />
 
 </div>
 </td>
@@ -49,12 +46,8 @@ const harmoniousCode = {
 
 **⚡ Batik Parang**  
 *Continuous Integration*
-```python
-# Alur yang tak terputus
-def continuous_development():
-    while coding:
-        learn() -> improve() -> repeat()
-```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=D2691E&center=true&vCenter=true&width=300&lines=learn();improve();repeat();" />
 
 </div>
 </td>
@@ -63,10 +56,8 @@ def continuous_development():
 
 **🦋 Batik Kupu**  
 *Transformative Code*
-```php
-// Metamorfosis dari ide ke aplikasi
-$idea->transform()->develop()->deploy();
-```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=CD853F&center=true&vCenter=true&width=300&lines=idea→develop→deploy" />
 
 </div>
 </td>
@@ -79,32 +70,18 @@ $idea->transform()->develop()->deploy();
 
 <img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```javascript
-const zayanProfile = {
-    name: "Zayan Rizki",
-    age: 18,
-    location: "🏝️ Indonesia - Tanah Air Beta",
-    role: "Full Stack Developer",
-    
-    expertise: ["PHP", "JavaScript", "SHA256"],
-    interests: ["🔐 Cyber Security", "₿ Cryptocurrency"],
-    email: "zayanrizki14@gmail.com",
-    
-    philosophy: "Kode yang indah seperti batik yang rumit",
-    motto: "Bhinneka Tunggal Ika in Code! 🇮🇩",
-    
-    currentMood: "Coding sambil dengerin gamelan 🎵",
-    funFact: "Saya debug sambil minum kopi tubruk!"
-};
-
-// Semangat 45!
-console.log("Merdeka! 🇮🇩");
-```
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&width=500&lines=name:+'Zayan+Rizki';age:+18;location:+'Indonesia';role:+'Full+Stack+Developer'" />
+</div>
 
 - 💡 Ask me about **PHP, JavaScript, SHA256**
 - 📫 Reach me at **zayanrizki14@gmail.com**  
 - ⚡ Fun fact: I'm interested in **Cyber Security** & **Cryptocurrency**
 - 🏛️ **Bonus**: Saya percaya setiap baris kode punya cerita seperti motif batik!
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=16&duration=2500&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=🎵+Coding+sambil+dengerin+gamelan;☕+Debug+sambil+minum+kopi+tubruk;🇮🇩+Bhinneka+Tunggal+Ika+in+Code!;🔥+Merdeka!+Semangat+45!" />
+</div>
 
 ---
 
